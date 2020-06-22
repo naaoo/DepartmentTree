@@ -1,0 +1,15 @@
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\bin\Debug\DepartmentLogic.dll.config
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\bin\Debug\DepartmentLogic.dll
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\bin\Debug\DepartmentLogic.pdb
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\bin\Debug\DepartmentData.dll
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\bin\Debug\EntityFramework.dll
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\bin\Debug\DepartmentData.pdb
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\bin\Debug\DepartmentData.dll.config
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\bin\Debug\EntityFramework.xml
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\obj\Debug\DepartmentLogic.csprojAssemblyReference.cache
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\obj\Debug\DepartmentLogic.csproj.CoreCompileInputs.cache
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\obj\Debug\DepartmentLogic.csproj.CopyComplete
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\obj\Debug\DepartmentLogic.dll
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentLogic\obj\Debug\DepartmentLogic.pdb

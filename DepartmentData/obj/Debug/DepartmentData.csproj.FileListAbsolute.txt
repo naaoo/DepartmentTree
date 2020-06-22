@@ -1,0 +1,12 @@
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentData\bin\Debug\DepartmentData.dll.config
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentData\bin\Debug\DepartmentData.dll
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentData\bin\Debug\DepartmentData.pdb
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentData\bin\Debug\EntityFramework.dll
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentData\bin\Debug\EntityFramework.xml
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentData\obj\Debug\DepartmentData.csprojAssemblyReference.cache
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentData\obj\Debug\DepartmentData.csproj.CoreCompileInputs.cache
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentData\obj\Debug\DepartmentData.csproj.CopyComplete
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentData\obj\Debug\DepartmentData.dll
+C:\Users\DCV\C#-Repos\DepartmentTree\DepartmentData\obj\Debug\DepartmentData.pdb
